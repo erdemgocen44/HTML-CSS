@@ -1,0 +1,13 @@
+.kutu1 {
+    width: 100;
+    height: 100;
+    background-color: violet;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.kutu2 {
+    background-color: chartreuse;
+    padding: 30px;
+}
