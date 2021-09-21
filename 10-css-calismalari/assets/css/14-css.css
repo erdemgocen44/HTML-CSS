@@ -1,0 +1,35 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.ustMenu {
+    background-color: gray;
+}
+
+.header {
+    background-color: rgb(187, 184, 184);
+    position: sticky;
+    top: 0;
+}
+
+.header div,
+.ustMenu div {
+    display: inline-block;
+    width: 48%;
+    padding: 5px;
+    color: white;
+}
+
+.header .menu {
+    text-align: right;
+}
+
+.ustSag {
+    text-align: right;
+}
+
+.ustMenu a {
+    color: white;
+    text-decoration: none;
+}
