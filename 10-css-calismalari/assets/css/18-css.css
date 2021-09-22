@@ -1,0 +1,25 @@
+.kutu {
+    background-color: hotpink;
+    border: 1px solid black;
+}
+
+.kutu1 {
+    flex: 1;
+}
+
+.kutu2 {
+    flex: 2;
+}
+
+.kutu3 {
+    flex: 3;
+}
+
+.kutular {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: stretch;
+    background-color: chocolate;
+    height: 300px;
+}
