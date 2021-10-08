@@ -1,0 +1,16 @@
+h1 {
+  color: rgb(187, 226, 187);
+  background-color: hotpink;
+}
+
+h1:hover {
+  color: rgb(24, 140, 248);
+  background-color: rgb(157, 255, 0);
+}
+
+/* span sadece yazıyı kapsar...*/
+span:hover {
+  color: brown;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: cornflowerblue;
+}

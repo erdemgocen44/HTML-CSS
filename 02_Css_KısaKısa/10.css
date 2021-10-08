@@ -1,0 +1,21 @@
+.kutu1 {
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+  font-size: xx-large;
+  float: left;
+  margin: 5px;
+}
+
+.kutu2 {
+  height: 100px;
+  width: 100px;
+  background-color: chartreuse;
+  font-size: xx-large;
+  float: left;
+  margin: 5px;
+}
+
+.temizle {
+  clear: both;
+}
